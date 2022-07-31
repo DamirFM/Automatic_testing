@@ -1,6 +1,7 @@
 // @ts-check
 
 import assert from 'power-assert';
+// @ts-ignore
 import getFunction from '../functions.js';
 
 const indexOf = getFunction();
